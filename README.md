@@ -8,5 +8,5 @@ Meu nome é Rodrigo Ananias da Silva Souza, tenho 24 anos e sou Desenvolvedor/Pe
 <p>• Realizar <i>Networking</i> e ter uma relação de parceria e aprendizado com outros desenvolvedores/pesquisadores</p>
 <p>• Contribuir com o desenvolvimento tecnológico e social,  propagar e divulgar a ciência e a tecnologia.</p>
 <h4>Redes Sociais</h4>
-<div><a href="https://www.linkedin.com/in/rodrigo-ananias-9368a8136/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"></a>
+<div><a href="https://www.linkedin.com/in/rodrigo-ananias-9368a8136/" target="_blank"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"></a>
 </div>
